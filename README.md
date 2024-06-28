@@ -1,6 +1,6 @@
-#PushPanel
+# PushPanel
 
-##What is PushPanel?
+## What is PushPanel?
 
 PushPanel is an overview for multiple PowerShell scripts. This overview serves as an admin tool to unite many scripts in one place so that everyone can use the same scripts. The tool can easily be extended with additional .ps1 (PowerShell) files. This gives you a small and minimalistic overview, and anyone can easily add their code and create a button using the Config.json file.
 How do I add a new button?
@@ -37,5 +37,5 @@ json
 
 Make sure that there is a comma after each block, except after the last block.
 
-#Lizenz
+# Lizenz
 This project belongs to the developer Melone155 and should not be passed off as his own, even if it is extended or further developed by someone else.
