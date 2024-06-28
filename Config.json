@@ -1,0 +1,12 @@
+[
+    {
+        "Name": "Test",
+        "Pfad": "",
+        "Datei": "Test.ps1"
+    },
+    {
+        "Name": "Test2",
+        "Pfad": "",
+        "Datei": "Test2.ps1"
+    }
+]
